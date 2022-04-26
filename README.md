@@ -1,4 +1,9 @@
-### Hi there 👋
+# 🐬 Welcome to My Page
+
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <!--
 **nelljun/nelljun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

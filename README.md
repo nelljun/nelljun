@@ -1,9 +1,23 @@
-# 🐬 Welcome to My Page
+<h3 align="center">:satisfied: 백엔드 개발자 김준형 :satisfied:</h3>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+<div align="center">
+
+:envelope: nelljun.kim<hi>@gmail.com
+<br>
+:link: [Blog](https://nelljundev.tistory.com)
+
+</div>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<div align="center">
+
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)
+  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+  
+</div>
 
 <!--
 **nelljun/nelljun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

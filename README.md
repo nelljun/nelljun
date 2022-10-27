@@ -1,4 +1,4 @@
-<h3 align="center">:satisfied: 백엔드 개발자 김준형 :satisfied:</h3>
+<h3 align="center">😄 백엔드 개발자 김준형 😄</h3>
 
 <div align="center">
 

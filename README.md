@@ -5,7 +5,9 @@
 :envelope: nelljun.kim<hi>@gmail.com
 <br>
 :link: [Blog](https://nelljundev.tistory.com)
-
+<br>
+:link: [Resume](https://nelljun.notion.site/d8db0d57b2ae4af0a03969364c5b4d40)
+  
 </div>
 
 <br>
